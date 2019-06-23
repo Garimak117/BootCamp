@@ -1,0 +1,10 @@
+js assignment 2 
+
+Q1) Create a program to create a date object and display the month name from it using switch-case statement.
+   
+https://jsfiddle.net/79co3dj5/1/
+
+Q2) Create a program to calculate compound interest using math object.
+
+https://jsfiddle.net/8nvpmufo/
+
