@@ -1,0 +1,9 @@
+Assignment -1
+Q1) Create a function to calculate simple interest. Principal, Rate and Time should be declared as member variables
+
+https://jsfiddle.net/aco78grk/1/
+
+Q2) Create a function to declare student information(firstName, lastName, class) as an object and display “fullName” using object's property.
+
+https://jsfiddle.net/pn736dts/1/
+
