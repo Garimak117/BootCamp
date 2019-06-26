@@ -1,0 +1,19 @@
+PRACTICAL PROGRAMS
+
+Que1) Sort the alphabetically the String 
+	https://jsfiddle.net/6741ewuv/
+
+Que2) Write a JavaScript fun that accept a string as a parameter and fing the longest word length 
+	https://jsfiddle.net/8eLxzh0j/2/
+
+Que3):Print  Current Date in javaScript in specific format
+	https://jsfiddle.net/8ozfnLp1/
+
+Que4):Write a JavaScript Function from a year 2000 to 2050 find the year which has sunday on 1st jan date
+	https://jsfiddle.net/8ozfnLp1/2/
+
+Que5):Write a JavaScript program to calculate number of days left until next Christmas.
+	https://jsfiddle.net/8ozfnLp1/3/
+
+Que6):Write a JavaScript program to remove a character at the specified position of a given string and return the new string.
+                 https://jsfiddle.net/8ozfnLp1/5/
