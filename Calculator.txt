@@ -1,0 +1,3 @@
+Create a standard calculator for mathematical calculation
+
+https://jsfiddle.net/8u65gpsm/3/
