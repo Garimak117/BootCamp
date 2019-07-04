@@ -1,0 +1,4 @@
+JQuery Assignment 
+
+Q) Add delete sort rows of table using jquery.
+https://jsfiddle.net/w347f8us/1/
