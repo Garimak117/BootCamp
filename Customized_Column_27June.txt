@@ -1,0 +1,2 @@
+Multiple Column Selection
+https://jsfiddle.net/o0s2uywx/4/
