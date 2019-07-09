@@ -1,0 +1,6 @@
+Q) Use promise to prompt alert after 2 seconds 
+Bind multiple promise callbacks 
+Show error if result is returning false
+Do multiple task if error came or result returned false
+
+ https://jsfiddle.net/810du3wg/2/
